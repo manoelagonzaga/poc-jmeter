@@ -1,0 +1,2 @@
+protocol,server,port,server-rac,path
+https,totvs.performance.staging.totvs.app,,totvs.rac.staging.totvs.app,/performance/api

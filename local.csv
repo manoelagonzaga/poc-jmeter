@@ -1,0 +1,2 @@
+protocol,server,port,server-rac,path
+http,localhost,5000,totvs.rac.dev.totvs.io,/api
